@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Bowser",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.nintendolife.com%2Fnews%2F2013%2F01%2Fbowser_is_officially_the_greatest_video_game_villain_of_all_time%2Flarge.jpg&f=1&nofb=1",
+      "likes": 4,
+      "id": 9
     }
   ]
 }
